@@ -1,10 +1,1 @@
-### Hi there 👋
-
-#### My name is Ahmed Hekal, I am a passionate backend engineer&Other:)
-- 👨‍💻 I am backend engineer At Movia S.P.A
-- 🔭 I’m currently working on some personal projects about:
-  - Botnet🤖 and how to execute tasks (like ansible)
-
-- 🌱 I’m currently learning hadoop, Bigdata analysis
-
-
+![preview (1)](https://github.com/midoelhawy/midoelhawy/assets/27738027/4009e73d-2e4e-4d22-83d3-df820cff5149)
