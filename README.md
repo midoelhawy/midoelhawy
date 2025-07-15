@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-[![preview (1)](https://github.com/midoelhawy/midoelhawy/assets/27738027/4009e73d-2e4e-4d22-83d3-df820cff5149)](https://ahmedhekal.it)
+[![preview (1)](https://github.com/user-attachments/assets/3232869b-a653-4244-982f-c5d369035786)](https://ahmedhekal.it)
 
 
 ## 🌐 Socials:
